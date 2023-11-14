@@ -5,7 +5,7 @@ Src files for arch dwm setup
 ## Installation
 
 1. Clone repo and copy src directory to your .local directory.
-2. Download st clone suckless.org repo:
+2. Clone st suckless.org repo:
 
 ```
 git clone git://git.suckless.org/st
